@@ -2,6 +2,7 @@
 
 The application is built for online transaction for user with an account.
 The Manager role is created for administration purpose.
+The frontend is designed using React.
 The backend and API is generated using springboot framework.
 
 Here are some screeenshots:
